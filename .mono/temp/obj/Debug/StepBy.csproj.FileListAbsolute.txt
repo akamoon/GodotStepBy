@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\bin\Debug\StepBy.dll
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\bin\Debug\StepBy.pdb
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.AssemblyInfo.cs
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.dll
+C:\Users\ASUS\Documents\code\Prj\MyPRJ\StepBy\.mono\temp\obj\Debug\StepBy.pdb
